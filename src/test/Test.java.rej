@@ -1,0 +1,11 @@
+diff a/src/test/Test.java b/src/test/Test.java	(rejected hunks)
+@@ -0,0 +1,9 @@
++package test;
++
++public class Test {
++	
++	Test(){
++		System.out.println("������");
++	}
++
++}
