@@ -10,5 +10,8 @@ public class Test {
 	private void menu() {
 		System.out.println("메뉴");
 	}
+	private void kkk() {
+		System.out.println("추가");
+	}
 
 }
