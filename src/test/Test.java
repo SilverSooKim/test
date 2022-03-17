@@ -3,7 +3,9 @@ package test;
 public class Test {
 	
 	Test(){
-		System.out.println("积己厘");
+		//System.out.println("积己厘");
+		int a=10;
+		System.out.println(a);
 	}
 
 }
